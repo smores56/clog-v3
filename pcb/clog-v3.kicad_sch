@@ -946,7 +946,7 @@
     (uuid 1d2751e3-008b-4ba0-af9e-dd39156435d8)
     (property "Reference" "SW21" (id 0) (at 171.45 139.7 0))
     (property "Value" "SW_Push" (id 1) (at 171.45 142.24 0))
-    (property "Footprint" "footprints:reset-switch-4pin" (id 2) (at 171.45 142.24 0)
+    (property "Footprint" "footprints:reset-switch-angled-4pin" (id 2) (at 171.45 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 171.45 142.24 0)
@@ -976,7 +976,7 @@
     (uuid 4ec432be-e3b3-4d28-802c-33ca3fb66772)
     (property "Reference" "SW18" (id 0) (at 171.45 125.73 0))
     (property "Value" "SW_Push" (id 1) (at 171.45 128.27 0))
-    (property "Footprint" "footprints:reset-switch-4pin" (id 2) (at 171.45 128.27 0)
+    (property "Footprint" "footprints:reset-switch-angled-4pin" (id 2) (at 171.45 128.27 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 171.45 128.27 0)
@@ -1409,7 +1409,7 @@
       (reference "SW17") (unit 1) (value "SW_Push") (footprint "footprints:choc-switch-socket-only")
     )
     (path "/4ec432be-e3b3-4d28-802c-33ca3fb66772"
-      (reference "SW18") (unit 1) (value "SW_Push") (footprint "footprints:reset-switch-4pin")
+      (reference "SW18") (unit 1) (value "SW_Push") (footprint "footprints:reset-switch-angled-4pin")
     )
     (path "/4f5b4d96-5a38-4b2e-a759-bc7d95440c8b"
       (reference "SW19") (unit 1) (value "SW_SPDT") (footprint "footprints:power-switch")
@@ -1418,7 +1418,7 @@
       (reference "SW20") (unit 1) (value "SW_SPDT") (footprint "footprints:power-switch")
     )
     (path "/1d2751e3-008b-4ba0-af9e-dd39156435d8"
-      (reference "SW21") (unit 1) (value "SW_Push") (footprint "footprints:reset-switch-4pin")
+      (reference "SW21") (unit 1) (value "SW_Push") (footprint "footprints:reset-switch-angled-4pin")
     )
     (path "/c7a53cab-ad3a-43ee-8585-52abdf784d4b"
       (reference "U1") (unit 1) (value "ProMicro_r") (footprint "footprints:pro-micro")

@@ -1,4 +1,4 @@
-39950649447273
+41734892689604
 art
 smores
 
@@ -113,6 +113,13 @@ reset-switch
 2
 footprints
 reset-switch-4pin
+Low-profile SMD Tactile Switch, https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pdf
+SPST Tactile Switch
+0
+4
+2
+footprints
+reset-switch-angled-4pin
 Low-profile SMD Tactile Switch, https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pdf
 SPST Tactile Switch
 0
