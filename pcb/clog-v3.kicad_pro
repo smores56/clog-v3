@@ -333,7 +333,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "clog.kicad_pro",
+    "filename": "clog-v3.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -367,7 +367,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "clog-v3.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
