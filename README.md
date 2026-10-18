@@ -1,3 +1,7 @@
+> **Moved.** This board now lives in the [Clog family repo](https://github.com/smores56/clog), under [`v3/`](https://github.com/smores56/clog/tree/main/v3).
+
+---
+
 The Clog V3
 ===========
 
